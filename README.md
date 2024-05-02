@@ -1,1 +1,2 @@
 # Google-AI-Hackathon-Project
+This is a project that is not yet fully working, but I am trying my level best to fix it. I used Google Gemini API and Google colab to code it. I used prompt from the Google Generative AI studio. I used a dataset from Kaggle for uploading data on Ghibli Movies to the model. The model is supposed to either take input from the user or ask about the recent Ghibli Movies they watched to reccommend more based on that information. It also tries to give an otaku vibe for the targeted audience. 
